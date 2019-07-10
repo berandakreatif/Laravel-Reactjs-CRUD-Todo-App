@@ -22,7 +22,7 @@ Please follow the guide.
 **OR**
 
 for starterkit Laravel & Reactjs follow the link below
-    [Todo App Laravel & React Js](https://github.com/berandakreatif/Laravel-Reactjs-Starterkit)
+    [Laravel & React Js Starterkit](https://github.com/berandakreatif/Laravel-Reactjs-Starterkit)
 
 ## Features
 - [x] Laravel 5.8 Version
